@@ -116,18 +116,6 @@ import {
   
   const experiences = [
     {
-      title: "Student Associate",
-      company_name: "University of Texas at Arlington",
-      icon: uta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2022 - Jun 2023",
-      points: [
-        "Scheduled over 300 appointments per semester and provided assistance to students and parents, both in person and over the phone.",
-        "Entered and managed electronic documents, processing an average of 100 documents daily within document management systems, with 100% accuracy.",
-        "Facilitated meetings with academic advisors, serving a student body of more than 1200 individuals.",
-      ],
-    },
-    {
       title: "Software Engineer Extern",
       company_name: "Capital One",
       icon: capitalone,
@@ -145,7 +133,7 @@ import {
       company_name: "University of Texas at Arlington",
       icon: uta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jan 2023 - Jan 2024",
       points: [
         "Conducted assessments to determine students' strengths and weaknesses, and monitored their progress throughout the course.",
         "Developed individualized learning plans for each student, based on their assessment results and learning goals.",
@@ -157,10 +145,22 @@ import {
       company_name: "Strings Attached Bungee Fitness",
       icon: sabf,
       iconBg: "#E6DEDD",
-      date: "Jun 2023 - Present",
+      date: "Jun 2023 - Jan 2024",
       points: [
-        "Spearheading the complete revamp of the Strings Attached Bungee Fitness website using HTML, CSS, and JavaScript, resulting in a visually appealing and modernized online presence.",
-        "Collaborating with cross-functional teams to gather requirements, develop new features, and implement A/B testing strategies, resulting in a 25% increase in conversions and a 30% improvement in overall website performance.",
+        "Spearheaded the complete revamp of the Strings Attached Bungee Fitness website using HTML, CSS, and JavaScript, resulting in a visually appealing and modernized online presence.",
+        "Collaborated with cross-functional teams to gather requirements, develop new features, and implement A/B testing strategies, resulting in a 25% increase in conversions and a 30% improvement in overall website performance.",
+      ],
+    },
+    {
+      title: "Web Developer",
+      company_name: "University of Texas at Arlington",
+      icon: uta,
+      iconBg: "#E6DEDD",
+      date: "Feb 2024 - Present",
+      points: [
+        "Developing and maintaining departmental websites, enhancing user experience with HTML, CSS, and JavaScript, resulting in a 15% increase in user engagement.",
+        "Analyzing and audit website performance, accessibility, and web analytics using SiteImprove to ensure all web pages function properly and comply with appropriate legal policies, guidelines, and standards, achieving a 200% improvement in accessibility compliance.",
+        "Implementing responsive web design principles to ensure seamless user experiences across various devices and screen sizes.",
       ],
     },
   ];
