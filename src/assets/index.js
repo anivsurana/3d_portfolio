@@ -31,6 +31,8 @@ import intothematrix from "./intothematrix.png";
 import filesystem from "./filesystem.png";
 import tripguide from "./tripguide.png";
 
+import tracdocs from "./tracdocssample.png"
+
 export {
   logo,
   backend,
@@ -61,4 +63,5 @@ export {
   intothematrix,
   filesystem,
   tripguide,
+  tracdocs,
 };

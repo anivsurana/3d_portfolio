@@ -21,6 +21,7 @@ import {
     fidelity,
     shopify,
     intothematrix,
+    tracdocs,
     filesystem,
     tripguide,
     threejs,
@@ -142,7 +143,7 @@ import {
       ],
     },
     {
-      title: "Web Developer",
+      title: "Web Development Intern",
       company_name: "Strings Attached Bungee Fitness",
       icon: sabf,
       iconBg: "#E6DEDD",
@@ -207,25 +208,25 @@ import {
   
   const projects = [
     {
-      name: "Into The Matrix",
+      name: "TracDocs",
       description:
-        "Application designed to load 3D models to demonstrate different types of transformations thatare applied to 3D objects, including scaling, translation, and rotation. The transformations are shown in real-time based on user input.",
+        "Developed a collaborative document editing application with live collaboration features, enabling users to edit documents in real-time. This tool enhances productivity and teamwork by allowing multiple users to work on the same document simultaneously.",
       tags: [
         {
-          name: "java",
+          name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "opengl",
+          name: "typescript",
           color: "green-text-gradient",
         },
-        // {
-        //   name: "",
-        //   color: "pink-text-gradient",
-        // },
+        {
+          name: "tailwindcss",
+          color: "pink-text-gradient",
+        },
       ],
-      image: intothematrix,
-      source_code_link: "https://github.com/anivsurana/IntoTheMatrix",
+      image: tracdocs,
+      source_code_link: "https://github.com/anivsurana/TracDocs",
     },
     {
       name: "File System",
