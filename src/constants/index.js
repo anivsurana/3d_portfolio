@@ -154,6 +154,18 @@ import {
       ],
     },
     {
+      title: "Software Engineer Intern",
+      company_name: "Fidelity Investments",
+      icon: fidelity,
+      iconBg: "#E6DEDD",
+      date: "June 2024 - August 2024",
+      points: [
+        "Redesigning an internal representative-facing application using Angular and RxJS, enhancing performance and usability, which led to a 60\% increase in productivity for representatives.",
+        "Collaborated with cross-functional teams to improve application components, enhancing maintainability and scalability, resulting in a 25% reduction in future development time and facilitating quicker updates for end-users.",
+        "Implemented state management solutions with RxJS, streamlining data flow and improving application responsiveness, enabling representatives to access and process client information more efficiently.",
+      ],
+    },
+    {
       title: "Web Developer",
       company_name: "University of Texas at Arlington",
       icon: uta,
@@ -165,18 +177,6 @@ import {
         "Implementing responsive web design principles to ensure seamless user experiences across various devices and screen sizes.",
       ],
     },
-    {
-      title: "Software Engineer Intern",
-      company_name: "Fidelity Investments",
-      icon: fidelity,
-      iconBg: "#E6DEDD",
-      date: "June 2024 - Present",
-      points: [
-        "Redesigning an internal representative-facing application using Angular and RxJS, enhancing performance and usability, which led to a 60\% increase in productivity for representatives.",
-        "Collaborated with cross-functional teams to improve application components, enhancing maintainability and scalability, resulting in a 25% reduction in future development time and facilitating quicker updates for end-users.",
-        "Implemented state management solutions with RxJS, streamlining data flow and improving application responsiveness, enabling representatives to access and process client information more efficiently.",
-      ],
-    }
   ];
   
   const testimonials = [
